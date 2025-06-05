@@ -24,7 +24,7 @@ search: true
 
 author:
   name   : "Kim Mandery"
-  avatar : "/assets/images/bio_photo.JPEG"
+  avatar : <img src="/assets/images/bio_photo.JPEG" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;" />
   bio    : "Hiya! "
   links:
     - label: "✉ Email"
